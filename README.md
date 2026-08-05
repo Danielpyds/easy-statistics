@@ -27,7 +27,7 @@ Aplicación de escritorio hecha en Python que permite explorar datos y correr re
 
 ### Opción 1: Descargar el ejecutable (recomendada, no requiere Python)
 
-1. Ve a la sección Releases de este repositorio
+1. Ve a la sección [Releases](https://github.com/Danielpyds/easy-statistics/releases/tag/v1.0.0) de este repositorio
 2. Descarga el archivo `EasyStatistics.exe` de la versión más reciente
 3. Ábrelo directamente, sin necesidad de instalar nada más
 
