@@ -1,0 +1,5 @@
+venv_test/
+build/
+dist/
+*.spec
+__pycache__/
